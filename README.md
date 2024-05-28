@@ -7,4 +7,4 @@ meu nome é Ana Rebeca
 -  Estou desenvolvendo a linguagem JAVASCRIPT na sala de aula com minha professora
 -  Utilizo este espaço para organização e compartilhamento dos meus projetos
 
-![](https://media1.tenor.com/m/JcFRMMR_6AYAAAAd/life-is-strange.gif)
+![](https://media1.tenor.com/m/goDBYyWn7-8AAAAC/life-is-strange.gif)
